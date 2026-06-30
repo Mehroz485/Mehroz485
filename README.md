@@ -39,4 +39,4 @@ Backend Developer & ML/AI Intern — building real projects across backend, full
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
